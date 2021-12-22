@@ -21,6 +21,10 @@ npm install
 
 <img src="./public/images/techblog.png" alt="Screenshot of Tech Blog Homepage"/>
 
+## Heroku Link
+
+[Heroku](https://easy-tech-blog.herokuapp.com/)
+
 ## License
 
 ![badge](https://img.shields.io/badge/license-MIT-blue)
