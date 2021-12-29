@@ -11,7 +11,7 @@
 
 ## Description
 
-This project uses allows developers to create an account to publish articles, blog posts, their thoughts and opinions on a tech blog website.
+This project allows developers to create an account to publish articles, blog posts, their thoughts and opinions on a tech blog website.
 
 ## Installations
 
